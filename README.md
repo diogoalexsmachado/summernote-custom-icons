@@ -1,2 +1,2 @@
 # summernote-faicon
-extension for summernote, font awesome icon picker
+extension for summernote, using a custom font icon picker
